@@ -1,0 +1,6 @@
+{
+  "name": "MoneyMind AI",
+  "description": "Modern AI-powered personal finance management with smart budgeting, real-time cash-flow forecasting, spending leak detection, and financial advisory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
